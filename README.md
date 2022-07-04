@@ -22,7 +22,7 @@ This project was developed with the following technologies:
 
 ## 💻 Project
 
-This project is a web events platform being created during the IGNITE LAB week by Rocketseat.
+This project is a web events platform being created during the Ignite Lab week by Rocketseat.
 
 ## 💾 Environment Variables
 
