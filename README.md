@@ -14,10 +14,11 @@
 
 This project was developed with the following technologies:
 
-- React.js
-- Vite.js
-- Tailwindcss
-- Typescript
+- [React.js](https://reactjs.org/)
+- [Vite.js](https://vitejs.dev/guide/)
+- [Tailwindcss](https://tailwindcss.com/docs/guides/vite)
+- [Apollo Client](https://www.apollographql.com/docs/react/)
+- [Typescript](https://www.typescriptlang.org/)
 
 ## 💻 Project
 
