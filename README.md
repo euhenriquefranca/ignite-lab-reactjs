@@ -7,7 +7,7 @@
 <br>
 
 <p align="center">
-  <img alt="Ignite Lab" src=".github/preview.jpg" width="100%">
+  <img alt="Ignite Lab" src="https://user-images.githubusercontent.com/62766151/177190948-004ed4a8-0a71-4086-a18f-49601f0df5dc.png" width="100%">
 </p>
 
 ## 🚀 Technologies
