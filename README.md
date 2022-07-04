@@ -10,13 +10,6 @@
   <img alt="Ignite Lab" src="https://user-images.githubusercontent.com/62766151/177190948-004ed4a8-0a71-4086-a18f-49601f0df5dc.png" width="100%">
 </p>
 
-## 💾 Environment Variables
-
-To run this project, you will need to add the following environment variables to your `.env` file:
-
-- **`VITE_APP_API_URL`:** **GraphCMS** API Link (used on **Apollo Client**)
-- **`VITE_APP_API_TOKEN`:** **GraphCMS** Token (used on **Apollo Client** to)
-
 ## 🚀 Technologies
 
 This project was developed with the following technologies:
@@ -30,6 +23,13 @@ This project was developed with the following technologies:
 ## 💻 Project
 
 This project is a web events platform being created during the IGNITE LAB week by Rocketseat.
+
+## 💾 Environment Variables
+
+To run this project, you will need to add the following environment variables to your `.env` file:
+
+- **`VITE_APP_API_URL`:** **GraphCMS** API Link (used on **Apollo Client**)
+- **`VITE_APP_API_TOKEN`:** **GraphCMS** Token (used on **Apollo Client** to)
 
 ## 🔖 Layout
 
